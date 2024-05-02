@@ -1,4 +1,4 @@
-#Exercise 2
+# Exercise 2
 
 ## Aufgabenstellung
  Schreiben Sie auch eine kurze Beschreibung jedes Befehls in eigenen Worten,
