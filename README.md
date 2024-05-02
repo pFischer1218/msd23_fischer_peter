@@ -44,3 +44,5 @@ Peter Fischer
 - [Exercise5]
 - [Exercise6]
 
+[GitHub Profile](https://github.com/pFischer1218)
+[University of Applied Sciences JOANNEUM](https://www.fh-joanneum.at/)
