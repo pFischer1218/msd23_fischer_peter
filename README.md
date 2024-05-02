@@ -38,7 +38,7 @@ Peter Fischer
 
 ## Links
 - [Exercise1](exercise1.md)
-- [Exercise2]
+- [Exercise2](exercise2.md) Short description of various git commands.
 - [Exercise3]
 - [Exercise4]
 - [Exercise5]
