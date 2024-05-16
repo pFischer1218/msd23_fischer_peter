@@ -6,7 +6,10 @@ Im Projekt wurde ein neuer Ordner namens target erstellt, in welchem sich weiter
 ![Image of File structure in Explorer](resources/images/ex3_1.png)
 
 ## Image 2
-![Image of the File structure in IntelliJ](resources/images/ex3_3.png)
+![Image of the File structure in IntelliJ](resources/images/ex3_4.png)
 
 ## Image 3
 ![Image of succesfully running the mvn compile command](resources/images/ex3_2.png)
+
+## Image 4
+![Image of succesfully building the Maven project](resources/images/ex3_3.png)

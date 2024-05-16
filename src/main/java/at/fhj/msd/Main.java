@@ -11,5 +11,7 @@ public class Main {
         System.out.println(c.multiply(n1,n2));
         System.out.println(c.divide(n1,n2));
 
+        System.out.println("Peter Fischer");
+
     }
 }
