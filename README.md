@@ -40,7 +40,7 @@ Peter Fischer
 - [Exercise1](exercise1.md)
 - [Exercise2](exercise2.md) Short description of various git commands.
 - [Exercise3](exercise3.md) Short documentation of building a Project witch Maven.
-- [Exercise4]
+- [Exercise4](exercise4.md) Short description of the different Testcases of Calculator.java.
 - [Exercise5]
 - [Exercise6]
 

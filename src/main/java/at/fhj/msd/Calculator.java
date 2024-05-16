@@ -18,10 +18,6 @@ public class Calculator {
     }
 
     public double divide(double number1, double number2){
-        try {
-            return number1 / number2;
-        }catch (ArithmeticException arithmeticException){
-            return 0;
-        }
+        return number1/number2;
     }
 }
