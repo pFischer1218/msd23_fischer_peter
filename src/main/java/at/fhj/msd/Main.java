@@ -1,6 +1,11 @@
 package at.fhj.msd;
 
+import org.apache.logging.log4j.LogManager;
+
+import org.apache.logging.log4j.Logger;
+
 public class Main {
+    private static Logger logger = LogManager.getLogger();
     public static void main(String[] args) {
         Calculator c = new Calculator();
         try {
@@ -16,6 +21,9 @@ public class Main {
         }catch (Exception e){
             System.out.println("Keine Zulässige Eingabe!");
         }
+
+        logger.info("It is a info logger.");
+        logger.error("It is an error logger.");
 
 
         System.out.println("Peter Fischer");
