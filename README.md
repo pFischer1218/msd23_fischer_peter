@@ -44,7 +44,7 @@ Peter Fischer
 - [Exercise2](exercise2.md) Short description of various git commands.
 - [Exercise3](exercise3.md) Short documentation of building a Project witch Maven.
 - [Exercise4](exercise4.md) Short description of the different Testcases of Calculator.java.
-- [Exercise5]
+- [Exercise5](exercise5.md) Explaination of logging and log4J.
 - [Exercise6]
 
 [GitHub Profile](https://github.com/pFischer1218)
