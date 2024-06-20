@@ -73,8 +73,11 @@ public class CalculatorTest {
 
     @Test
     void testDivide3() {
-        assertEquals("Infinity", (calculator.divide(26, 0)) + "");
-    }
+            Calculator calc = new Calculator();
+            assertThrows(ArithmeticException.class, () -> {
+                calc.divide(5, 0);
+            });
+        }
 
     @Test
     void testFactorial1() {

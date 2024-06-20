@@ -33,6 +33,9 @@ Inputting the 1 or 2 without spaces will allow the user to input the amount by w
 ## Contributions
 The Project currently is not open for any contributions.
 
+## Log config template file
+The file src/main/resources/log4j2.xml.template can be used to configure the logger. The user can change the path and filename in which the logs are stored. Furthermore, the current pattern can be changed from the current date and time and log message. Minimum log level and if the file gets appended with new logs can also be changed as wished.
+
 ## Author
 Peter Fischer
 
